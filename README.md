@@ -42,18 +42,10 @@ http://www.gravizo.com
 ### Generated image with img tag
 
 ```html
-<img width="300" src="https://g.gravizo.com/svg?
-    @startuml;
-    Bob -> Alice : hello;
-    @enduml;
-">
+<img width="300" src="https://g.gravizo.com/svg?@startuml;Bob->Alice:hello;@enduml;">
 ```
 
-<img width="300" src="https://g.gravizo.com/svg?
-    @startuml;
-    Bob -> Alice : hello;
-    @enduml;
-">
+<img width="300" src="https://g.gravizo.com/svg?@startuml;Bob->Alice:hello;@enduml;">
 
 ### Generated image with markdown
 
